@@ -10,10 +10,8 @@ An Open Source Telegram Converter Bot Based On [Anydl](https://telegram.dog/spec
 ### Installation
 
 #### The Easy Way
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DRAGON-NOOB/File-To-Video-Converter-)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-
-## Our Telegram Channel
 
 * [Mai Bots](https://telegram.dog/Mai_bOTs)
 
